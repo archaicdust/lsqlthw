@@ -1,0 +1,4 @@
+
+* Reference
+
+[[http://sql.learncodethehardway.org/book/][Learn SQL The Hard Way]]
